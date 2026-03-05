@@ -54,7 +54,7 @@ export default function LandingPage() {
             { id: "2", imageSrc: "http://img.b2bpic.net/free-photo/young-couple-having-walk-woods_1303-22349.jpg", imageAlt: "Pre-wedding shoot showcase" },
             { id: "3", imageSrc: "http://img.b2bpic.net/free-photo/confident-young-model-holds-camera-spotlight-generated-by-ai_188544-27654.jpg", imageAlt: "Portrait photography showcase" },
             { id: "4", imageSrc: "http://img.b2bpic.net/free-photo/friends-celebrating-new-years-eve_53876-46899.jpg", imageAlt: "Event photography showcase" },
-            { id: "5", imageSrc: "http://img.b2bpic.net/free-photo/wedding-couple-performing-first-dance-restaurant_8353-12297.jpg", imageAlt: "Wedding ceremony photography" },
+            { id: "5", imageSrc: "http://img.b2bpic.net/free-photo/wedding-couple-performing-first-dance-restaurant_8353-12297.jpg?_wi=1", imageAlt: "Wedding ceremony photography" },
             { id: "6", imageSrc: "http://img.b2bpic.net/free-photo/man-kissing-hand-woman-sitting-sea-shore_23-2148019932.jpg", imageAlt: "Pre-wedding couple shoot" },
           ]}
           autoPlay={true}
@@ -157,7 +157,7 @@ export default function LandingPage() {
             { id: "3", name: "Pre-Wedding Couple", price: "Pre-Wedding", imageSrc: "http://img.b2bpic.net/free-photo/young-happy-bride-wedding-dress-groom_624325-231.jpg", imageAlt: "Couple portrait" },
             { id: "4", name: "Family Portrait", price: "Portraits", imageSrc: "http://img.b2bpic.net/free-photo/joyful-family-nature_1098-1236.jpg", imageAlt: "Family portrait" },
             { id: "5", name: "Event Coverage", price: "Events", imageSrc: "http://img.b2bpic.net/free-photo/group-friends-having-fun-with-sparklers-drinks-white-party_23-2149485958.jpg", imageAlt: "Event photography" },
-            { id: "6", name: "Reception Candid", price: "Wedding", imageSrc: "http://img.b2bpic.net/free-photo/wedding-couple-performing-first-dance-restaurant_8353-12297.jpg", imageAlt: "Reception moment" },
+            { id: "6", name: "Reception Candid", price: "Wedding", imageSrc: "http://img.b2bpic.net/free-photo/wedding-couple-performing-first-dance-restaurant_8353-12297.jpg?_wi=2", imageAlt: "Reception moment" },
           ]}
         />
       </div>
@@ -178,11 +178,11 @@ export default function LandingPage() {
             {
               id: "2",              name: "Priya Sharma",              role: "Corporate Event Manager",              testimonial: "The event photography was professional and timely. All our corporate clients loved the final images. Will definitely book again for next year's event.",              imageSrc: "http://img.b2bpic.net/free-photo/friendly-successful-business-woman-posing-with-arms-crossed_74855-2813.jpg",              imageAlt: "Priya Sharma"},
             {
-              id: "3",              name: "Vikram Patel",              role: "Family Portrait Client",              testimonial: "Amazing experience! Pratik made us feel comfortable during the shoot and delivered beautiful family portraits. Such attention to detail!",              imageSrc: "http://img.b2bpic.net/free-photo/close-up-portrait-young-handsome-successful-man_1163-5475.jpg",              imageAlt: "Vikram Patel"},
+              id: "3",              name: "Vikram Patel",              role: "Family Portrait Client",              testimonial: "Amazing experience! Pratik made us feel comfortable during the shoot and delivered beautiful family portraits. Such attention to detail!",              imageSrc: "http://img.b2bpic.net/free-photo/close-up-portrait-young-handsome-successful-man_1163-5475.jpg?_wi=1",              imageAlt: "Vikram Patel"},
             {
               id: "4",              name: "Sneha Desai",              role: "Pre-Wedding Shoot",              testimonial: "Our pre-wedding shoot was the most romantic and fun experience. The photos are absolutely gorgeous. Thank you so much!",              imageSrc: "http://img.b2bpic.net/free-photo/young-businesswoman-portrait-office_1262-1506.jpg",              imageAlt: "Sneha Desai"},
             {
-              id: "5",              name: "Arjun Kapoor",              role: "Portrait Client",              testimonial: "Best portrait session ever! Pratik's professionalism and creativity resulted in timeless photos I'll cherish forever.",              imageSrc: "http://img.b2bpic.net/free-photo/close-up-portrait-young-handsome-successful-man_1163-5475.jpg",              imageAlt: "Arjun Kapoor"},
+              id: "5",              name: "Arjun Kapoor",              role: "Portrait Client",              testimonial: "Best portrait session ever! Pratik's professionalism and creativity resulted in timeless photos I'll cherish forever.",              imageSrc: "http://img.b2bpic.net/free-photo/close-up-portrait-young-handsome-successful-man_1163-5475.jpg?_wi=2",              imageAlt: "Arjun Kapoor"},
             {
               id: "6",              name: "Neha & Nikhil",              role: "Wedding Couple",              testimonial: "From the first consultation to the final delivery, everything was perfect. Pratik is a true professional. Booking him again for our upcoming anniversary!",              imageSrc: "http://img.b2bpic.net/free-photo/side-view-beautiful-bride-bridegroom-which-hugging-kissing-each-other-while-guests-holding-cold-sparkles-which-burning-creating-glowing-arch-night-ceremony-outdoor_8353-12110.jpg",              imageAlt: "Neha & Nikhil"},
           ]}
